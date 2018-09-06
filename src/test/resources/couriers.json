@@ -1,0 +1,32 @@
+[
+  {
+    "id": "courier-1",
+    "name": "Manolo Escobar",
+    "box": true,
+    "vehicle": "MOTORCYCLE",
+    "location": {
+      "lat": 41.3965463,
+      "lon": 2.1963997
+    }
+  },
+  {
+    "id": "courier-2",
+    "name": "Mohsen Lotfizad",
+    "box": false,
+    "vehicle": "MOTORCYCLE",
+    "location": {
+      "lat": 41.3965464,
+      "lon": 2.1963997
+    }
+  },
+  {
+    "id": "courier-3",
+    "name": "Arvin Fatemi",
+    "box": false,
+    "vehicle": "BICYCLE",
+    "location": {
+      "lat": 41.3965465,
+      "lon": 2.1963997
+    }
+  }
+]
